@@ -1,4 +1,3 @@
-import HeroSection from "./components/hero-section/HeroSection"
 import CarsSection from "./components/cars-section/CarsSection"
 
 export default function Home() {
